@@ -30,7 +30,7 @@ jobs:
       with:
         context: ./
         push: true
-        tags: wkogut98/zad2_fs:latest
+        tags: wkogut98/fs_zad2:latest
         platforms: linux/amd64,linux/arm64,linux/ppc64le
         cache-to: type=inline
         
